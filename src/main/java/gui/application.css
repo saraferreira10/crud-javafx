@@ -1,0 +1,15 @@
+
+.btnSignIn {
+    -fx-background-color: black;
+    -fx-background-radius: 10px;
+}
+
+.btnCreateAccount{
+	-fx-background-color: white;
+    -fx-border-color: black;
+    -fx-border-radius: 10px;
+}
+
+.textField{
+	-fx-background-radius: 10px;
+}
